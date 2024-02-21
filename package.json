@@ -2,7 +2,7 @@
   "name": "newsletter",
   "version": "1.0.0",
   "description": "![Design preview for the Newsletter sign-up form with success message coding challenge](./design/desktop-preview.jpg)",
-  "default": "iindex.html",
+  "default": "index.html",
   "scripts": {
     "start": "parcel index.html ",
     "build": "parcel run build index.html --dist-dir ./dist"

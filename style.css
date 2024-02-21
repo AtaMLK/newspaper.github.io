@@ -46,6 +46,8 @@ form {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+  height: 100vh;
+  width: 100vw;
 }
 
 .img-box .main-img {
@@ -125,7 +127,7 @@ form {
   height: auto;
   top: 0;
   left: 0;
-  background-color: hsl(255, 255%, 255%, 0.1);
+  background-color: hsl(255, 255%, 255%, 1);
   z-index: -1;
 }
 .success-message {
