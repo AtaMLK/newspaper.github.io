@@ -172,7 +172,7 @@ module.exports = reloadCSS;
 var reloadCSS = require('_css_loader');
 module.hot.dispose(reloadCSS);
 module.hot.accept(reloadCSS);
-},{"C:\\Users\\molka\\OneDrive\\Desktop\\New folder\\newsletter-sign-up-with-success-message-main\\assets\\images\\illustration-sign-up-desktop.svg":[["illustration-sign-up-desktop.cdb5fe09.svg","assets/images/illustration-sign-up-desktop.svg"],"assets/images/illustration-sign-up-desktop.svg"],"C:\\Users\\molka\\OneDrive\\Desktop\\New folder\\newsletter-sign-up-with-success-message-main\\assets\\images\\icon-success.svg":[["icon-success.14cb2312.svg","assets/images/icon-success.svg"],"assets/images/icon-success.svg"],"C:\\Users\\molka\\OneDrive\\Desktop\\New folder\\newsletter-sign-up-with-success-message-main\\assets\\images\\illustration-sign-up-mobile.svg":[["illustration-sign-up-mobile.dbd2cc2a.svg","assets/images/illustration-sign-up-mobile.svg"],"assets/images/illustration-sign-up-mobile.svg"],"_css_loader":"../../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
+},{"C:\\Users\\molka\\OneDrive\\Desktop\\frontend-mentor\\newsletter-sign-up-with-success-message-main-main\\assets\\images\\illustration-sign-up-desktop.svg":[["illustration-sign-up-desktop.cdb5fe09.svg","assets/images/illustration-sign-up-desktop.svg"],"assets/images/illustration-sign-up-desktop.svg"],"C:\\Users\\molka\\OneDrive\\Desktop\\frontend-mentor\\newsletter-sign-up-with-success-message-main-main\\assets\\images\\icon-success.svg":[["icon-success.14cb2312.svg","assets/images/icon-success.svg"],"assets/images/icon-success.svg"],"C:\\Users\\molka\\OneDrive\\Desktop\\frontend-mentor\\newsletter-sign-up-with-success-message-main-main\\assets\\images\\illustration-sign-up-mobile.svg":[["illustration-sign-up-mobile.dbd2cc2a.svg","assets/images/illustration-sign-up-mobile.svg"],"assets/images/illustration-sign-up-mobile.svg"],"_css_loader":"../../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 var OldModule = module.bundle.Module;
@@ -197,7 +197,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "62517" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "62390" + '/');
   ws.onmessage = function (event) {
     checkedAssets = {};
     assetsToAccept = [];
